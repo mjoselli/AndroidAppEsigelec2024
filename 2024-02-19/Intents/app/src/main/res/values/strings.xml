@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="textview1">Text 1</string>
+    <string name="textview_2">Text 2</string>
+    <string name="button_go_to_second_activity">Go To Second Activity</string>
+    <string name="go_to_third_activity">Go To Third Activity</string>
+</resources>
