@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="save">Save</string>
+</resources>
